@@ -1,1 +1,3 @@
-# Project1
+iDiscuss - A forum Website
+
+A php based project Where people can post there opinion and dicussion on topics they want other's opinion.
